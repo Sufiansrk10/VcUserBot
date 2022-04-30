@@ -4,7 +4,7 @@ import asyncio
 
 from pytgcalls import idle
 
-from confing import call_py
+from config import call_py
 
 
 async def main():
