@@ -1,6 +1,6 @@
 import asyncio
 
-import os
+
 
 from pytgcalls import idle
 
